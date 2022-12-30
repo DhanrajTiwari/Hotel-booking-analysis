@@ -4,4 +4,6 @@ This data set contains booking information for a city hotel and a resort hotel, 
 
 All personally identifying information has been removed from the data. And also required things have been done for the given dataset.
 
-Doing an Exploratory Data Analysis in a given dataset. Built this data analysis model by using some plotting techniques. And analysed model using Barplot, Subplot, and Pie Graph.
+Conclusion
+
+Built this data analysis model by using some plotting techniques. And analysed model using Barplot, Subplot, and Pie Graph.
