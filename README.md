@@ -4,6 +4,6 @@ This data set contains booking information for a city hotel and a resort hotel, 
 
 All personally identifying information has been removed from the data. And also required things have been done for the given dataset.
 
-Conclusion
+*# Conclusion*
 
 Built this data analysis model by using some plotting techniques. Analysed model using Barplot, Subplot, and Pie Graph.
